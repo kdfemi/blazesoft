@@ -1,0 +1,1 @@
+export const classes = (...classNames: Array<string | undefined>) => classNames.join(' ')
